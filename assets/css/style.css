@@ -65,7 +65,9 @@ width:150px;
 border: 0px solid #000000;
 
 }
+ 
   
+  /*--------------FOOTER------W3SCHOOLS------*/
 footer {
    position: fixed;
    left: 0;
@@ -83,21 +85,35 @@ li:hover {
   background-color: blue;
   
 }
-     
+  
+  /* Grow */
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
 
-   
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    transform: scale(1.1);
+}   
 
+   /*--------FONT AWESOME------------SOCIAL MEDIA ICONS*/
 
-
-/*--------FONT AWESOME------------SOCIAL MEDIA ICONS*/
-
-.fa {
+.fab {
   padding:0px;
-  font-size: 50px;
-  width: 50px;
+  padding-bottom:40px;
+  font-size: 32px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
+  
 }
 
 .fa:hover {
@@ -105,17 +121,29 @@ li:hover {
 }
    
     
-/*-------------------GALLERY--W3CHOOLS--CSS*/
+/*-------------------JUMBOTRON--W3CHOOLS--------*/
 
+.jumbotron {
 
-
-.inks {
-    
-    padding:80px
-    
-    
-    
+  background-color:powderblue;
+  
 }
+  
+/*------------------BOOTSTRAP---GLYPHICON-------*/
+  
+  
+.glyphicon {
+padding-left:30px;
+padding-right:30px;
+
+}
+
+
+ .glyphicon:hover {
+
+ }     
+    
+
 
 
 
