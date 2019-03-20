@@ -21,11 +21,11 @@ Enjoy!!
 
 ## Website Function ##
 
-I have included tabs for magazines,books,recordings,artist-biography and videos with a focus on the lesser known musicians.There’s a lot to discover here with new artists emerging.As the website begins to grow I will include more content regarding new and those lesser known artists who I think deserve wider recognition.You cannot have a website dedicated to bop without the heavy hitters.Monk,Coltrane,Miles and Blakey all have their place in the BOP hall of fame on every page of the site.
+
 
 ## Testing and Troubleshooting
 
-Html pages tested on Firefox,Opera,Chrome,Microsoft Edge,Safari and Brave web browsers.Had some issues with the Mobile First setup  as pages would not display properly.
+Html pages tested on Firefox,Opera,Chrome,Microsoft Edge,Safari and Brave web browsers.
 
 
 
@@ -40,7 +40,7 @@ Reusableforms.com
 Google Font-Awesome
 CSSmatic.com(css tools for web developers)
 Getbem.com
-Denis Gouchar Illustrations/Behance
+Denis Gouchar Illustrations/Behance(Background Wallpaper)
 Hover.css.com
 Css-tricks.com
 

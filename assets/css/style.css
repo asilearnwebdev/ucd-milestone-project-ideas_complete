@@ -13,6 +13,17 @@ html {
 /* set background image per page */
 
 
+.container-fluid { 
+ 
+ 
+ overflow:hidden;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
 body {
  
   display:inline;
@@ -44,38 +55,29 @@ body {
   }
 
 
-.container-fluid {
-   padding-right: 30px;
-    padding-left: 40px;
-    margin-right:auto;
-    margin-left: auto;
+
     
-}
 
 
 /*--------CSS--MATIC--BORDER------*/
-
 img {
 
 width:150px;
  height:100px;
  border-radius: 30px 30px 30px 30px;
--moz-border-radius: 30px 30px 30px 30px;
--webkit-border-radius: 30px 30px 30px 30px;
-border: 0px solid #000000;
+
 
 }
  
-  
   /*--------------FOOTER------W3SCHOOLS------*/
 footer {
-   position: fixed;
+   position: absolute;
    left: 0;
    bottom: 0;
    width: 100%;
   background-color:#1a1a1a;
    color: white;
-   text-align: left;
+   text-align:center;
    height: 40px;
  
 
@@ -126,6 +128,7 @@ li:hover {
 .jumbotron {
 
   background-color:powderblue;
+  text-align: center;
   
 }
   
@@ -144,10 +147,6 @@ padding-right:30px;
  }     
     
 
-
-
-
-
 /*--------------------------------------------Heading*/
 
 
@@ -156,3 +155,11 @@ padding-right:30px;
 
 
 /*--------------------------------------------Heading*/
+
+
+.album-rows {
+    margin-top: 10px;
+    
+    
+}
+
