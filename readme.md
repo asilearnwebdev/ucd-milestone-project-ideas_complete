@@ -135,7 +135,7 @@ https://www.w3schools.com/ for testing my code before deployment.Great website f
 http://getbem.com for showing me how to present code in a tidy fashion.
 https://www.behance.net/denisgonchar for the lovely wallpaper.
 https://jigsaw.w3.org/css-validator/validator for the main page icon.
-
+https://www.glyphicons.com/ for footer icons.
 
 
 
