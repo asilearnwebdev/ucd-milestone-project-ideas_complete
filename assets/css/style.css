@@ -10,16 +10,14 @@ html {
   background-size: cover;
 }
 
-/* set background image per page */
+
 
 
 .container-fluid { 
  
- 
  overflow:hidden;
  
- 
- }
+}
  
  
  
@@ -30,10 +28,8 @@ body {
   
 }
 
-/*----------------MEDIA QUERIES*/
 
-/*-------------------NAVBAR*/
-.nav{
+.nav {
     
     color:#2f2f1e;
 }
@@ -49,33 +45,28 @@ body {
     min-height: 10px;
     margin-bottom: 20px;
     margin-right:60px;
-    margin-left:auto;
+    margin-left:60px;
     background-color:#1a1a1a;
+    box-sizing: border-box;
     
   }
 
 
 
-    
-
-
-/*--------CSS--MATIC--BORDER------*/
 img {
 
-width:150px;
+ width:150px;
  height:100px;
  border-radius: 30px 30px 30px 30px;
-
-
 }
  
-  /*--------------FOOTER------W3SCHOOLS------*/
+  
 footer {
-   position: absolute;
+   position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-  background-color:#1a1a1a;
+   background-color:#1a1a1a;
    color: white;
    text-align:center;
    height: 40px;
@@ -88,26 +79,6 @@ li:hover {
   
 }
   
-  /* Grow */
-.hvr-grow {
-    display: inline-block;
-    vertical-align: middle;
-    transform: translateZ(0);
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-    backface-visibility: hidden;
-    -moz-osx-font-smoothing: grayscale;
-    transition-duration: 0.3s;
-    transition-property: transform;
-}
-
-.hvr-grow:hover,
-.hvr-grow:focus,
-.hvr-grow:active {
-    transform: scale(1.1);
-}   
-
-   /*--------FONT AWESOME------------SOCIAL MEDIA ICONS*/
-
 .fab {
   padding:0px;
   padding-bottom:40px;
@@ -123,7 +94,6 @@ li:hover {
 }
    
     
-/*-------------------JUMBOTRON--W3CHOOLS--------*/
 
 .jumbotron {
 
@@ -132,12 +102,10 @@ li:hover {
   
 }
   
-/*------------------BOOTSTRAP---GLYPHICON-------*/
-  
-  
+
 .glyphicon {
-padding-left:30px;
-padding-right:30px;
+    padding-left:30px;
+    padding-right:30px;
 
 }
 
@@ -147,19 +115,19 @@ padding-right:30px;
  }     
     
 
-/*--------------------------------------------Heading*/
-
-
-
-/*--------------------------------------------Heading*/
-
-
-/*--------------------------------------------Heading*/
-
-
 .album-rows {
     margin-top: 10px;
     
     
 }
 
+.fas {
+  padding:0px;
+  padding-bottom:40px;
+  font-size: 32px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*--------------------------------------------*/
