@@ -2,7 +2,7 @@
 
 # BOP HEAVEN # 
 
-Website can be found here:
+Website can be found here: https://asilearnwebdev.github.io/ucd-milestone-project/
 
 ## Website Description 
 >The website is my dedication to the Jazz music style of the late l940’s called BOP.Many great recordings were made over the last 60 years and I want to shine a light on more of the many unknown musicians of the past and present.
@@ -85,7 +85,8 @@ Html grid will be setup with 3 to 4 containers which will use the entire width o
 Bootstrap framework and CSS tricks.com amongst other apps will be used to acheive our MVP.
 
 SKELETON
-Wireframes found here:-
+Wireframes found here:-https://github.com/asilearnwebdev/ucd-milestone-project/tree/master/wireframes
+
 >Main index.html page has been created with tabs for home,band members(key players),featured artist,videos,music gallery and contact.The top priority for the user is to be able to click on any of the tabs to get the inforamation thats needed.For instance the "Key Players" tab will give the user a visual of the band members plus a biography.If the user wants to research further he/she can use the cloud icon in the footer.Our navbar is positioned  beneath the photo images.
 
 SURFACE
@@ -134,7 +135,7 @@ https://www.w3schools.com/ for testing my code before deployment.Great website f
 http://getbem.com for showing me how to present code in a tidy fashion.
 https://www.behance.net/denisgonchar for the lovely wallpaper.
 https://jigsaw.w3.org/css-validator/validator for the main page icon.
-
+https://www.glyphicons.com/ for footer icons.
 
 
 
