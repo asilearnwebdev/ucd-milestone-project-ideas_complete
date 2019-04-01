@@ -28,6 +28,7 @@ Enjoy!!
 Html and CSS page error checking.(W3 HTML and CSS Validator)
 Google DEV tools used for carrying out real time changes/code testing.Manage to spot various errors in my coding.
 Various faults on key players,contact and video html pages.This was down to incorrect syntax in all container area's.Page faults fixed and rectified by using W3 schools and html validators.
+Tested website navigation on low end to high end spec pc's.intel,amd and pentium processors tested with ram starting at 1gb minimum and reaching 12gb maximum.
 
 
 ## Deployment 
