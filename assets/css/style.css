@@ -4,7 +4,7 @@ body {
      font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-    background-color:blueviolet; /*----------------DENIS GOUCHAR WALLPAPERS*/
+    background-color:blueviolet; /*----------------*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -20,14 +20,6 @@ body {
 }
  
  
- 
- 
-body {
- 
-    display:inline;
-  
-}
-
 
 .nav {
     
