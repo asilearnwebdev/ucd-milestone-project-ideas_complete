@@ -85,7 +85,7 @@ Html grid will be setup with 3 to 4 containers which will use the entire width o
 Bootstrap framework and CSS tricks.com amongst other apps will be used to acheive our MVP.
 
 SKELETON
-Wireframes found here:-https://github.com/asilearnwebdev/ucd-milestone-project/tree/master/wireframes
+>Wireframes found here:-https://github.com/asilearnwebdev/ucd-milestone-project-ideas/tree/master/wireframes
 
 >Main index.html page has been created with tabs for home,band members(key players),featured artist,videos,music gallery and contact.The top priority for the user is to be able to click on any of the tabs to get the inforamation thats needed.For instance the "Key Players" tab will give the user a visual of the band members plus a biography.If the user wants to research further he/she can use the cloud icon in the footer.Our navbar is positioned  beneath the photo images.
 
