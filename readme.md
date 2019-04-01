@@ -2,7 +2,7 @@
 
 # BOP HEAVEN # 
 
-Website can be found here: https://asilearnwebdev.github.io/ucd-milestone-project/
+Website can be found here:  https://asilearnwebdev.github.io/ucd-milestone-project-ideas/
 
 ## Website Description 
 >The website is my dedication to the Jazz music style of the late l940’s called BOP.Many great recordings were made over the last 60 years and I want to shine a light on more of the many unknown musicians of the past and present.
