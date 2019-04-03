@@ -2,7 +2,7 @@
 
 # BOP HEAVEN # 
 
-Website can be found here: https://asilearnwebdev.github.io/ucd-milestone-project/
+Website can be found here:  https://asilearnwebdev.github.io/ucd-milestone-project-ideas/
 
 ## Website Description 
 >The website is my dedication to the Jazz music style of the late l940’s called BOP.Many great recordings were made over the last 60 years and I want to shine a light on more of the many unknown musicians of the past and present.
@@ -28,6 +28,7 @@ Enjoy!!
 Html and CSS page error checking.(W3 HTML and CSS Validator)
 Google DEV tools used for carrying out real time changes/code testing.Manage to spot various errors in my coding.
 Various faults on key players,contact and video html pages.This was down to incorrect syntax in all container area's.Page faults fixed and rectified by using W3 schools and html validators.
+Tested website navigation on low end to high end spec pc's.intel,amd and pentium processors tested with ram starting at 1gb minimum and reaching 12gb maximum.
 
 
 ## Deployment 
@@ -85,7 +86,7 @@ Html grid will be setup with 3 to 4 containers which will use the entire width o
 Bootstrap framework and CSS tricks.com amongst other apps will be used to acheive our MVP.
 
 SKELETON
-Wireframes found here:-https://github.com/asilearnwebdev/ucd-milestone-project/tree/master/wireframes
+>Wireframes found here:-https://github.com/asilearnwebdev/ucd-milestone-project-ideas/tree/master/wireframes
 
 >Main index.html page has been created with tabs for home,band members(key players),featured artist,videos,music gallery and contact.The top priority for the user is to be able to click on any of the tabs to get the inforamation thats needed.For instance the "Key Players" tab will give the user a visual of the band members plus a biography.If the user wants to research further he/she can use the cloud icon in the footer.Our navbar is positioned  beneath the photo images.
 
